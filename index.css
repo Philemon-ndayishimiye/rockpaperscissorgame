@@ -1,0 +1,28 @@
+#gamecontainer{
+
+    width: 400px ;
+    height: 220px;
+    background-color: beige;
+    text-align: center;
+    border: 4px greenyellow solid;
+    border-radius: 10px;
+    
+}
+h1{
+    font-size: 28px;
+    font-weight: bold;
+    color: green;
+}
+#resulttext{
+    font-size: 30px;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    width: 100px;
+    height: 30px;
+    border: 3px solid;
+    background-color: goldenrod;
+    border-radius: 15px;
+    color: white;
+}
