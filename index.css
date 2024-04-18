@@ -1,6 +1,6 @@
 
  @media (min-width: 800px) {
-    .nav-main {
+    #gamecontainer {
       max-width: 1170px;
       
     }
